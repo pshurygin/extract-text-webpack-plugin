@@ -42,6 +42,13 @@ c
 "
 `;
 
+exports[`Webpack Integration Tests context-modules-extracted-into-css 1`] = `
+".App1 {
+  color: black;
+}
+"
+`;
+
 exports[`Webpack Integration Tests merging-chunk 1`] = `
 "a
 b
